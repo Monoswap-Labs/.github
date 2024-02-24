@@ -1,4 +1,4 @@
-# Welcome to MonoSwapLabs
+# Welcome to MonoSwap
 
 MonoSwap represents a meticulously crafted ecosystem-centric, yield-driven Decentralized Exchange (DEX) and Launchpad seamlessly integrated with the robust Blast framework.
 
